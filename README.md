@@ -1,3 +1,3 @@
 
-My news app
+News app
 ===========
